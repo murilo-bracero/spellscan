@@ -27,8 +27,8 @@ TODO
 
 ## Milestones
 
-[] Backend Services deployed to a provider
-[] App avaliable on Play Store
-[] App available on Apple Store
-[] Web version
-[] IoT version
+- [ ] Backend Services deployed to a provider
+- [ ] App avaliable on Play Store
+- [ ] App available on Apple Store
+- [ ] Web version
+- [ ] IoT version
