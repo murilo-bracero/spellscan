@@ -12,10 +12,10 @@ It uses an AI scanner to identity the card based on it's name, type and set and 
 
 ## Repositories
 
-- (Backend)[https://github.com/murilo-bracero/spellscan-backend] built with Kotlin and Quarkus, but being rewritten in Typescript and Bun;
-- (Android App)[https://github.com/murilo-bracero/spellscan-android] built with Kotlin;
-- (Database migrations)[https://github.com/murilo-bracero/spellscan-database] built with SQL using Liquibase;
-- (Card Loader Job)[https://github.com/murilo-bracero/spellscan-card-loader] built with Golang;
+- [Backend](https://github.com/murilo-bracero/spellscan-backend) built with Kotlin and Quarkus, but being rewritten in Typescript and Bun;
+- [Android App](https://github.com/murilo-bracero/spellscan-android) built with Kotlin;
+- [Database migrations](https://github.com/murilo-bracero/spellscan-database) built with SQL using Liquibase;
+- [Card Loader Job](https://github.com/murilo-bracero/spellscan-card-loader) built with Golang;
 
 ## Usage
 
